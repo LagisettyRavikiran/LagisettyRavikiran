@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LagisettyRavikiran
-- 👀 I’m interested in Cloud computing and machine Learning and Bussiness managment
+- 👀 I’m interested in machine Learning. 
 - 🌱 I’m currently learning Artificial intelligence and machine learning
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
