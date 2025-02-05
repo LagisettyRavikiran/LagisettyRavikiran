@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [KareOSS](https://microhub.kalasalingam.ac.in/)
 
-- 👨‍💻 All of my projects are available at [https://lagisettyravikiran.github.io/Portfolio/](https://lagisettyravikiran.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://lagisettyravikiran.github.io/Portfolio/)
 
 - 📫 How to reach me **kiranlravi8@gmail.com**
 
