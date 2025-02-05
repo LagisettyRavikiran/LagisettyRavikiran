@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kiranlravi8@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rIqINGIxQVEGi6Z4bG0M9FiQZCMAY7UG/view](https://drive.google.com/file/d/1rIqINGIxQVEGi6Z4bG0M9FiQZCMAY7UG/view)
+- 📄 Know about my experiences [My Resume](https://www.overleaf.com/project/677cb045aa1bf995279e3bdc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
